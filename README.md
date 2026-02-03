@@ -18,11 +18,14 @@ This dashboard was designed to help clinic managers answer the following questio
 - Which patient groups are most common at the clinic?
 
 
-### Key Insights
-- Total appointments and no-show rate tracking
-- Revenue overview from billing data
-- Appointment trends over time
-- Patient demographics by age group and gender
+## Key Insights
+
+- The clinic recorded a total of 200 appointments during the analysis period, with noticeable fluctuations across months, indicating seasonal patterns in patient visits.
+- Approximately 26% of appointments resulted in no-shows, highlighting a significant opportunity to improve scheduling efficiency and patient follow-up processes.
+- Total revenue generated was 551.25K, driven primarily by completed treatments, demonstrating the financial impact of appointment attendance.
+- The largest proportion of patients falls within the 18–35 age group, followed by 36–55, suggesting the clinic primarily serves a young to middle-aged population.
+- Male patients represent a higher share of total patients compared to female patients, indicating potential demographic trends in service usage.
+
 
 ### Tools Used
 - Python (data cleaning and preprocessing)
