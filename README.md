@@ -1,5 +1,5 @@
 ## Clinic Operations Dashboard (Power BI)
-![Clinic Operations Dashboard - Overview](images/overview.png)
+![Clinic Operations Dashboard - Overview](./images/Overview.png)
 
 
 This project analyzes clinic appointment, patient, and billing data to support operational decision-making.
