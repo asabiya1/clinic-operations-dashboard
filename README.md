@@ -34,6 +34,14 @@ This dashboard was designed to help clinic managers answer the following questio
   - `patient_demographics.png` – Patient demographics dashboard page
 - `README.md` – Project documentation and insights
 
+## How to Use the Dashboard
+
+1. Open the `Clinic_Operations_Dashboard.pbix` file in Power BI Desktop.
+2. Use the KPI cards to monitor overall clinic performance.
+3. Review the line chart to understand appointment trends over time.
+4. Explore patient demographics to understand the clinic’s patient base.
+5. Apply filters (if available) to analyze specific time periods or segments.
+
 
 
 ### Tools Used
