@@ -26,6 +26,15 @@ This dashboard was designed to help clinic managers answer the following questio
 - The largest proportion of patients falls within the 18–35 age group, followed by 36–55, suggesting the clinic primarily serves a young to middle-aged population.
 - Male patients represent a higher share of total patients compared to female patients, indicating potential demographic trends in service usage.
 
+- ## Project Structure
+
+- `Clinic_Operations_Dashboard.pbix` – Power BI dashboard file
+- `images/`
+  - `overview.png` – Overview dashboard page
+  - `patient_demographics.png` – Patient demographics dashboard page
+- `README.md` – Project documentation and insights
+
+
 
 ### Tools Used
 - Python (data cleaning and preprocessing)
