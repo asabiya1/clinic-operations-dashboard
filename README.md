@@ -53,3 +53,7 @@ This dashboard was designed to help clinic managers answer the following questio
 - Power BI relationships and measures
 - KPI design and time-series analysis
 - Dashboard layout and business storytelling
+
+
+Sulemana Malik Aluu
+Junior Data Analyst | Power BI | Python | Data Visualization
